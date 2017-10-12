@@ -1,0 +1,418 @@
+<lugares>
+    <lugar name="Terraza">
+        <casella x="0" y="18" />
+        <casella x="0" y="19" />
+        <casella x="0" y="20" />
+        <casella x="0" y="21" />
+        <casella x="0" y="22" />
+        <casella x="0" y="23" />
+
+        <casella x="1" y="17" />
+        <casella x="1" y="18" />
+        <casella x="1" y="19" />
+        <casella x="1" y="20" />
+        <casella x="1" y="21" />
+        <casella x="1" y="22" />
+        <casella x="1" y="23" />
+
+        <casella x="2" y="17" />
+        <casella x="2" y="18" />
+        <casella x="2" y="19" />
+        <casella x="2" y="20" />
+        <casella x="2" y="21" />
+        <casella x="2" y="22" />
+        <casella x="2" y="23" />
+
+        <casella x="3" y="17" />
+        <casella x="3" y="18" />
+        <casella x="3" y="19" />
+        <casella x="3" y="20" />
+        <casella x="3" y="21" />
+        <casella x="3" y="22" />
+        <casella x="3" y="23" />
+
+        <casella x="4" y="17" />
+        <casella x="4" y="18" />
+        <casella x="4" y="19" />
+        <casella x="4" y="20" />
+        <casella x="4" y="21" />
+        <casella x="4" y="22" />
+        <casella x="4" y="23" />
+
+        <casella x="5" y="17" />
+        <casella x="5" y="18" />
+        <casella x="5" y="19" />
+        <casella x="5" y="20" />
+        <casella x="5" y="21" />
+        <casella x="5" y="22" />
+        <casella x="5" y="23" />
+    </lugar>
+
+    <lugar name = "Hall">
+        <casella x="0" y="9" />
+        <casella x="0" y="10" />
+        <casella x="0" y="11" />
+        <casella x="0" y="12" />
+        <casella x="0" y="13" />
+        <casella x="0" y="14" />
+
+        <casella x="1" y="9" />
+        <casella x="1" y="10" />
+        <casella x="1" y="11" />
+        <casella x="1" y="12" />
+        <casella x="1" y="13" />
+        <casella x="1" y="14" />
+
+        <casella x="2" y="9" />
+        <casella x="2" y="10" />
+        <casella x="2" y="11" />
+        <casella x="2" y="12" />
+        <casella x="2" y="13" />
+        <casella x="2" y="14" />
+
+        <casella x="3" y="9" />
+        <casella x="3" y="10" />
+        <casella x="3" y="11" />
+        <casella x="3" y="12" />
+        <casella x="3" y="13" />
+        <casella x="3" y="14" />
+
+        <casella x="4" y="9" />
+        <casella x="4" y="10" />
+        <casella x="4" y="11" />
+        <casella x="4" y="12" />
+        <casella x="4" y="13" />
+        <casella x="4" y="14" />
+
+        <casella x="5" y="9" />
+        <casella x="5" y="10" />
+        <casella x="5" y="11" />
+        <casella x="5" y="12" />
+        <casella x="5" y="13" />
+        <casella x="5" y="14" />
+
+        <casella x="6" y="9" />
+        <casella x="6" y="10" />
+        <casella x="6" y="11" />
+        <casella x="6" y="12" />
+        <casella x="6" y="13" />
+        <casella x="6" y="14" />
+    </lugar>
+
+    <lugar name="Estudio">
+        <casella x="6" y="1" />
+        <casella x="6" y="2" />
+        <casella x="6" y="3" />
+        <casella x="6" y="4" />
+        <casella x="6" y="5" />
+
+        <casella x="7" y="0" />
+        <casella x="7" y="1" />
+        <casella x="7" y="2" />
+        <casella x="7" y="3" />
+        <casella x="7" y="4" />
+        <casella x="7" y="5" />
+        <casella x="7" y="6" />
+
+        <casella x="8" y="0" />
+        <casella x="8" y="1" />
+        <casella x="8" y="2" />
+        <casella x="8" y="3" />
+        <casella x="8" y="4" />
+        <casella x="8" y="5" />
+        <casella x="8" y="6" />
+
+        <casella x="9" y="0" />
+        <casella x="9" y="1" />
+        <casella x="9" y="2" />
+        <casella x="9" y="3" />
+        <casella x="9" y="4" />
+        <casella x="9" y="5" />
+        <casella x="9" y="6" />
+
+        <casella x="10" y="1" />
+        <casella x="10" y="2" />
+        <casella x="10" y="3" />
+        <casella x="10" y="4" />
+        <casella x="10" y="5" />
+    </lugar>
+
+    <lugar name="Comedor">
+        <casella x="9" y="16" />
+        <casella x="9" y="17" />
+        <casella x="9" y="18" />
+        <casella x="9" y="19" />
+        <casella x="9" y="20" />
+        <casella x="9" y="21" />
+        <casella x="9" y="22" />
+        <casella x="9" y="23" />
+
+        <casella x="10" y="16" />
+        <casella x="10" y="17" />
+        <casella x="10" y="18" />
+        <casella x="10" y="19" />
+        <casella x="10" y="20" />
+        <casella x="10" y="21" />
+        <casella x="10" y="22" />
+        <casella x="10" y="23" />
+
+        <casella x="11" y="16" />
+        <casella x="11" y="17" />
+        <casella x="11" y="18" />
+        <casella x="11" y="18" />
+        <casella x="11" y="20" />
+        <casella x="11" y="21" />
+        <casella x="11" y="22" />
+        <casella x="11" y="23" />
+
+        <casella x="12" y="16" />
+        <casella x="12" y="17" />
+        <casella x="12" y="18" />
+        <casella x="12" y="18" />
+        <casella x="12" y="20" />
+        <casella x="12" y="21" />
+        <casella x="12" y="22" />
+        <casella x="12" y="23" />
+
+        <casella x="13" y="16" />
+        <casella x="13" y="17" />
+        <casella x="13" y="18" />
+        <casella x="13" y="18" />
+        <casella x="13" y="20" />
+        <casella x="13" y="21" />
+        <casella x="13" y="22" />
+        <casella x="13" y="23" />
+
+        <casella x="14" y="16" />
+        <casella x="14" y="17" />
+        <casella x="14" y="18" />
+        <casella x="14" y="18" />
+        <casella x="14" y="20" />
+        <casella x="14" y="21" />
+        <casella x="14" y="22" />
+        <casella x="14" y="23" />
+
+
+        <casella x="15" y="18" />
+        <casella x="15" y="20" />
+        <casella x="15" y="21" />
+        <casella x="15" y="22" />
+        <casella x="15" y="23" />
+    </lugar>
+
+    <lugar name="Garaje">
+        <casella x="0" y="0" />
+        <casella x="0" y="1" />
+        <casella x="0" y="2" />
+        <casella x="0" y="3" />
+        <casella x="0" y="4" />
+        <casella x="0" y="5" />
+
+        <casella x="1" y="0" />
+        <casella x="1" y="1" />
+        <casella x="1" y="2" />
+        <casella x="1" y="3" />
+        <casella x="1" y="4" />
+        <casella x="1" y="5" />
+        <casella x="1" y="6" />
+
+        <casella x="2" y="0" />
+        <casella x="2" y="1" />
+        <casella x="2" y="2" />
+        <casella x="2" y="3" />
+        <casella x="2" y="4" />
+        <casella x="2" y="5" />
+        <casella x="2" y="6" />
+
+        <casella x="3" y="0" />
+        <casella x="3" y="1" />
+        <casella x="3" y="2" />
+        <casella x="3" y="3" />
+        <casella x="3" y="4" />
+        <casella x="3" y="5" />
+        <casella x="3" y="6" />
+    </lugar>
+
+    <lugar name="Salón">
+        <casella x="12" y="0" />
+        <casella x="12" y="1" />
+        <casella x="12" y="2" />
+        <casella x="12" y="3" />
+        <casella x="12" y="4" />
+        <casella x="12" y="5" />
+
+        <casella x="13" y="0" />
+        <casella x="13" y="1" />
+        <casella x="13" y="2" />
+        <casella x="13" y="3" />
+        <casella x="13" y="4" />
+        <casella x="13" y="5" />
+
+        <casella x="14" y="0" />
+        <casella x="14" y="1" />
+        <casella x="14" y="2" />
+        <casella x="14" y="3" />
+        <casella x="14" y="4" />
+        <casella x="14" y="5" />
+
+        <casella x="15" y="0" />
+        <casella x="15" y="1" />
+        <casella x="15" y="2" />
+        <casella x="15" y="3" />
+        <casella x="15" y="4" />
+        <casella x="15" y="5" />
+
+        <casella x="16" y="0" />
+        <casella x="16" y="1" />
+        <casella x="16" y="2" />
+        <casella x="16" y="3" />
+        <casella x="16" y="4" />
+        <casella x="16" y="5" />
+    </lugar>
+
+    <lugar name="Cocina">
+        <casella x="18" y="18" />
+        <casella x="18" y="19" />
+        <casella x="18" y="20" />
+        <casella x="18" y="21" />
+        <casella x="18" y="22" />
+
+        <casella x="19" y="18" />
+        <casella x="19" y="19" />
+        <casella x="19" y="20" />
+        <casella x="19" y="21" />
+        <casella x="19" y="22" />
+        <casella x="19" y="23" />
+
+        <casella x="20" y="18" />
+        <casella x="20" y="19" />
+        <casella x="20" y="20" />
+        <casella x="20" y="21" />
+        <casella x="20" y="22" />
+        <casella x="20" y="23" />
+
+        <casella x="21" y="18" />
+        <casella x="21" y="19" />
+        <casella x="21" y="20" />
+        <casella x="21" y="21" />
+        <casella x="21" y="22" />
+        <casella x="21" y="23" />
+
+        <casella x="22" y="18" />
+        <casella x="22" y="19" />
+        <casella x="22" y="20" />
+        <casella x="22" y="21" />
+        <casella x="22" y="22" />
+        <casella x="22" y="23" />
+
+        <casella x="23" y="18" />
+        <casella x="23" y="19" />
+        <casella x="23" y="20" />
+        <casella x="23" y="21" />
+        <casella x="23" y="22" />
+        <casella x="23" y="23" />
+    </lugar>
+
+    <lugar name="Aposento">
+        <casella x="17" y="8" />
+        <casella x="17" y="9" />
+        <casella x="17" y="10" />
+        <casella x="17" y="11" />
+        <casella x="17" y="12" />
+        <casella x="17" y="13" />
+        <casella x="17" y="14" />
+        <casella x="17" y="15" />
+
+        <casella x="18" y="8" />
+        <casella x="18" y="9" />
+        <casella x="18" y="10" />
+        <casella x="18" y="11" />
+        <casella x="18" y="12" />
+        <casella x="18" y="13" />
+        <casella x="18" y="14" />
+        <casella x="18" y="15" />
+
+        <casella x="19" y="8" />
+        <casella x="19" y="9" />
+        <casella x="19" y="10" />
+        <casella x="19" y="11" />
+        <casella x="19" y="12" />
+        <casella x="19" y="13" />
+        <casella x="19" y="14" />
+        <casella x="19" y="15" />
+
+        <casella x="20" y="8" />
+        <casella x="20" y="9" />
+        <casella x="20" y="10" />
+        <casella x="20" y="11" />
+        <casella x="20" y="12" />
+        <casella x="20" y="13" />
+        <casella x="20" y="14" />
+        <casella x="20" y="15" />
+
+        <casella x="21" y="8" />
+        <casella x="21" y="9" />
+        <casella x="21" y="10" />
+        <casella x="21" y="11" />
+        <casella x="21" y="12" />
+        <casella x="21" y="13" />
+        <casella x="21" y="14" />
+        <casella x="21" y="15" />
+
+        <casella x="22" y="8" />
+        <casella x="22" y="9" />
+        <casella x="22" y="10" />
+        <casella x="22" y="11" />
+        <casella x="22" y="12" />
+        <casella x="22" y="13" />
+        <casella x="22" y="14" />
+        <casella x="22" y="15" />
+
+
+        <casella x="23" y="10" />
+        <casella x="23" y="11" />
+        <casella x="23" y="12" />
+        <casella x="23" y="13" />
+
+        <casella x="24" y="10" />
+        <casella x="24" y="11" />
+        <casella x="24" y="12" />
+        <casella x="24" y="13" />
+    </lugar>
+
+    <lugar name="Baño">
+        <casella x="19" y="1" />
+        <casella x="19" y="2" />
+        <casella x="19" y="3" />
+        <casella x="19" y="4" />
+
+        <casella x="20" y="0" />
+        <casella x="20" y="1" />
+        <casella x="20" y="2" />
+        <casella x="20" y="3" />
+        <casella x="20" y="4" />
+        <casella x="20" y="5" />
+
+        <casella x="21" y="0" />
+        <casella x="21" y="1" />
+        <casella x="21" y="2" />
+        <casella x="21" y="3" />
+        <casella x="21" y="4" />
+        <casella x="21" y="5" />
+
+        <casella x="22" y="0" />
+        <casella x="22" y="1" />
+        <casella x="22" y="2" />
+        <casella x="22" y="3" />
+        <casella x="22" y="4" />
+        <casella x="22" y="5" />
+
+        <casella x="23" y="0" />
+        <casella x="23" y="1" />
+        <casella x="23" y="2" />
+        <casella x="23" y="3" />
+        <casella x="23" y="4" />
+        <casella x="23" y="5" />
+    </lugar>
+
+</lugares>

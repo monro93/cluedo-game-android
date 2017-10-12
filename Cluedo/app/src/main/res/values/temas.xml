@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Final" parent="@style/Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:gravity">center</item>
+        <item name="android:textViewStyle">@style/TextViewCartes</item>
+        <item name="android:textColor">#FF344F</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">#FF1C19B7</item>
+    </style>
+</resources>

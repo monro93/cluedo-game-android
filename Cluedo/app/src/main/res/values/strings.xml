@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cluedo</string>
+    <string name="action_settings">Settings</string>
+    <string name="apreta_para_lanzar">Pulsa el dau per a llençar-ho!</string>
+    <string name="BlocNotes">Bloc de notas</string>
+    <string name="title_activity_benvinguda">Bienvenida</string>
+    <string name="cluedo">Cluedo</string>
+    <string name="title_activity_dialeg_ecull_carta">DialegEcullCarta</string>
+    <string name="CartaMostrar">Escoge una carta para mostrar:</string>
+    <string name="SeleccionImatgen">Selecciona imagen para el fondo</string>
+    <string name="ErrorAlCargarFoto">No se ha podido cargar la foto</string>
+    <string name="FondoPantalla">Fondo de pantalla</string>
+    <string name="MusicaDeFondo">Música de fondo</string>
+</resources>

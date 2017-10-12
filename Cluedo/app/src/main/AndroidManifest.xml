@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.albert.cluedo" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Benvinguda"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Bloc_de_notes"
+            android:label="@string/app_name"
+            android:parentActivityName=".Principal" />
+        <activity
+            android:name=".Principal"
+            android:label="Cluedo" >
+        </activity>
+        <activity
+            android:name=".DialegPrincipal"
+            android:label="@string/app_name"
+            android:parentActivityName=".Principal"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.Alert" />
+        <activity
+            android:name=".DialegPregunta"
+            android:label="@string/app_name"
+            android:parentActivityName=".Principal"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.Alert" />
+        <activity
+            android:name=".DialegEscullCarta"
+            android:parentActivityName=".DialegPrincipal"
+            android:label="@string/CartaMostrar"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog.Alert" />
+        <activity
+            android:name=".DialegFinal"
+            android:parentActivityName=".Principal"
+            android:label=".Final"
+            android:theme="@style/Final" />
+        <activity
+            android:name=".DialegFitxes"
+            android:parentActivityName=".Principal"
+            android:label=".Final"
+            android:theme="@style/Final" />
+
+    </application>
+
+</manifest>

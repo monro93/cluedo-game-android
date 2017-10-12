@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView3" >
+
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jugador 1 seleciona una ficha"
+        android:id="@+id/txtViewJugFitxa"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal">
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:id="@+id/radiogroup1">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio0"
+                android:drawableLeft="@drawable/fichafrentemorado"
+
+                />
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio01"
+                android:drawableLeft="@drawable/fichafrenteazul"
+                />
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio02"
+                android:drawableLeft="@drawable/fichafrenteverde"
+                />
+        </RadioGroup>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radiogroup2"
+            android:layout_gravity="center_horizontal"
+            android:gravity="right">
+
+
+
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio03"
+                android:drawableLeft="@drawable/fichafrenterojo"
+                />
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio04"
+                android:drawableLeft="@drawable/fichafrenteamarillo"
+                />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radio05"
+                android:drawableLeft="@drawable/fichafrenteblanco"
+
+                />
+
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btncheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecciona"
+        android:enabled="true" />
+
+</LinearLayout>
